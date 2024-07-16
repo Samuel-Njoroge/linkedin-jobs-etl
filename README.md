@@ -1,4 +1,4 @@
-# LinkedIn Data Extraction and PostgreSQL Integration ETL .
+# LinkedIn Data Extraction and PostgreSQL Integration ETL
 This project focuses on extracting data from LinkedIn using the LinkedIn Data API and subsequently loading that data into a PostgreSQL database using Python. The goal is to automate the data retrieval process, allowing for efficient data storage and analysis. By leveraging the LinkedIn Data API, the project aims to gather valuable insights from professional networking data, which can be utilized for various analytical purposes.
 
 ## Project Architecture
@@ -14,15 +14,14 @@ This project focuses on extracting data from LinkedIn using the LinkedIn Data AP
 - `LinkedIn Data API`: For accessing and extracting professional data from LinkedIn.
 - `Python`: The primary programming language used for scripting and automation.
 - `Pandas`: For data manipulation and cleaning before loading into PostgreSQL.
-- `SQLAlchemy`: For ORM (Object Relational Mapping) to interact with the PostgreSQL database.
 - `PostgreSQL`: The database management system used for storing the extracted data.
 - `Requests`: A Python library for making HTTP requests to the LinkedIn Data API.
 
 ## Skills Developed
-- `API Integration`: Gained experience in working with APIs, including authentication, data retrieval, and error handling.
-- `Database Management`: Improved skills in using PostgreSQL for data storage, including schema design and SQL queries.
-- `Data Processing`: Enhanced ability to manipulate and clean data using Pandas, ensuring data quality for analysis.
-- `Python Programming`: Strengthened proficiency in Python programming, focusing on data extraction, transformation, and loading (ETL) processes.
+- *API Integration :* Gained experience in working with APIs, including authentication, data retrieval, and error handling.
+- *Database Management :* Improved skills in using PostgreSQL for data storage, including schema design and SQL queries.
+- *Data Processing :* Enhanced ability to manipulate and clean data using Pandas, ensuring data quality for analysis.
+- *Python Programming :* Strengthened proficiency in Python programming, focusing on data extraction, transformation, and loading (ETL) processes.
 
 ## Installation
 1. Clone the repository
