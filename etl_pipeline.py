@@ -12,7 +12,7 @@ url = "https://linkedin-data-api.p.rapidapi.com/search-jobs"
 querystring = {"keywords":"dataengineer","locationId":"92000000","datePosted":"anyTime","sort":"mostRelevant"}
 
 headers = {
-	"x-rapidapi-key": "2be5d5701bmsh9cfd68b52506516p147db3jsn4d8e5fc63a17",
+	"x-rapidapi-key": "my_key"
 	"x-rapidapi-host": "linkedin-data-api.p.rapidapi.com"
 }
 
